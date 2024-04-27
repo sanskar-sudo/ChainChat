@@ -10,7 +10,6 @@ A blockchain-based messaging app prioritizing anonymity and privacy. With end-to
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ![Screenshot (7)](https://github.com/sanskar-sudo/ChainChat/assets/129141264/685b7d06-bc0a-4f55-8fe4-01e36a198282)
 ![Screenshot (3)](https://github.com/sanskar-sudo/ChainChat/assets/129141264/89af52be-e304-4b58-9b4c-60aa8799ec44)
