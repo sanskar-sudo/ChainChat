@@ -1,9 +1,7 @@
 
 
 
-# Project Title
-
-## ChainChat
+# ChainChat
 
 A blockchain-based messaging app prioritizing anonymity and privacy. With end-to-end encryption and decentralized architecture, it ensures secure, private conversations without compromising convenience. Users need not disclose personal information, and messages are encrypted and stored across a decentralized network, ensuring resilience against breaches.
 
